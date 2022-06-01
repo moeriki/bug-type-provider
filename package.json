@@ -1,0 +1,18 @@
+{
+  "name": "bug-type-provider",
+  "version": "1.0.0",
+  "author": "Dieter Luypaert <hey@moeriki.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "tsc index.ts"
+  },
+  "dependencies": {
+    "@fastify/type-provider-typebox": "^0.1.0-beta.1",
+    "fastify": "next"
+  },
+  "devDependencies": {
+    "@sinclair/typebox": "^0.23.5",
+    "typescript": "^4.7.2"
+  }
+}
