@@ -28,11 +28,6 @@
   resolved "https://registry.yarnpkg.com/@fastify/type-provider-typebox/-/type-provider-typebox-0.1.0-beta.1.tgz#d749da88bc8e4ca2108c3df2f5f28daf9511dbb5"
   integrity sha512-tUI8uUc5R1smtqb3fs4e/m5jeVmYu/2WSWAxyeQT3r11LhqS79NRFLIhsqIfQ4oBC6x/aIHHIauhnXzyX8xRYA==
 
-"@sinclair/typebox@^0.23.5":
-  version "0.23.5"
-  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.23.5.tgz#93f7b9f4e3285a7a9ade7557d9a8d36809cbc47d"
-  integrity sha512-AFBVi/iT4g20DHoujvMH1aEDn8fGJh4xsRGCP6d8RpLPMqsNPvW01Jcn0QysXTsg++/xj25NmJsGyH9xug/wKg==
-
 abstract-logging@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/abstract-logging/-/abstract-logging-2.0.1.tgz#6b0c371df212db7129b57d2e7fcf282b8bf1c839"
